@@ -284,7 +284,7 @@ This project is licensed under the terms included in the LICENSE file.
 
 ## 👥 Authors
 
-- Ankit Singh - [@ankitsingh015](https://github.com/ankitsingh015)
+ Suman Kumar MIshra 
 
 ## 🙏 Acknowledgments
 
